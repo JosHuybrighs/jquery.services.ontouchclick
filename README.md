@@ -1,8 +1,8 @@
-###jquery-services-ontouchclick
+###service-ontouchclick.jquery
 
 ##Description
 
-jquery.services.ontouchclick is a lightweight (less than 1 kB minified) jQuery plugin that allows a developer to attach
+service-ontouchclick.jquery is a lightweight (less than 1 kB minified) jQuery plugin that allows a developer to attach
 a callback function to a DOM element; the callback is called when the user touches or clicks the element.
 
 On devices where the user must click on an element the callback is invoked immediately when the 'click' event is occuring.
