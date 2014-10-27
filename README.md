@@ -1,4 +1,4 @@
-###service-ontouchclick.jquery
+###service.ontouchclick.jquery
 
 ##Description
 
