@@ -1,5 +1,5 @@
 {
-	"name": "service-ontouchclick",
+	"name": "service.ontouchclick",
 	"version": "1.0.0",
 	"title": "jQuery touch/click plugin",
 	"description": "service-ontouchclick.jquery is a lightweight (less than 1 kB minified) jQuery plugin that allows a developer to attach a callback function to a DOM element; the callback is called when the user touches or clicks the element.",
