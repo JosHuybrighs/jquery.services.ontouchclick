@@ -15,4 +15,4 @@ probably write the necessary javascript code for this.).
 
 ###Tutorial and Documentation
 
-You can find the tutorial and API description at [code.cwwonline.be](http://code.cwwonline.be/jqueryservicesontouchclick).
+You can find the tutorial and API description at [code.cwwonline.be](http://code.cwwonline.be/serviceontouchclickjquery).
