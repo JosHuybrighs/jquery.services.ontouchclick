@@ -4,7 +4,7 @@
  * but are missing some key features.
  * 
  * This plugin allows you to assign events to all touch/click events while ensuring the events are 
- * correctly fired and also don’t fire twice.
+ * correctly fired and also donâ€™t fire twice.
  * 
  * Usage:
  * 
