@@ -1,6 +1,6 @@
-###service.ontouchclick.jquery
+##service.ontouchclick.jquery
 
-##Description
+###Description
 
 service-ontouchclick.jquery is a lightweight (less than 1 kB minified) jQuery plugin that allows a developer to attach
 a callback function to a DOM element; the callback is called when the user touches or clicks the element.
@@ -13,6 +13,6 @@ makes a tap.
 The above concept therefore also eliminates the use of double tap. If you want to have that then you have to consider an alternative approach (and
 probably write the necessary javascript code for this.).
 
-##Tutorial and Documentation
+###Tutorial and Documentation
 
 You can find the tutorial and API description at [code.cwwonline.be](http://code.cwwonline.be/jqueryservicesontouchclick).
