@@ -5,6 +5,8 @@
  * 
  * This plugin allows you to assign events to all touch/click events while ensuring the events are 
  * correctly fired and also don’t fire twice.
+ *
+ * version: 1.0.0
  * 
  * Usage:
  * 
@@ -17,11 +19,16 @@
  *     var id = e.data.eventData; // Get passed 'value'.
  *     // Do whathever needs to be done.
  *	});
+ *
+ * Version history:
+ *   1.0.0: Initial version
  * 
  **/
 
+;
 jQuery.fn.ontouchclick = function (arg1, arg2) {
 
+    var version = '1.0.0';
     var callback = (arg2 == undefined) ? arg1 : arg2;
     var eventData = (arg2 == undefined) ? null : arg1;
     var lastTouched = 0;
